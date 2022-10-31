@@ -288,6 +288,7 @@ button {
 
 /* Portfolio */
 .project {
+    padding-top: 72px;
     padding-bottom: 94px;
 }
 .filter {
