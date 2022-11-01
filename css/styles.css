@@ -196,9 +196,8 @@ button {
     margin-bottom: 10px;
 
     color: var(--primary-heading-color);
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.19;
+    font-size: 14px;
+    line-height: 1.14;
     letter-spacing: 0.03em;     
     
 }
@@ -288,7 +287,7 @@ button {
 
 /* Portfolio */
 .project {
-    padding-top: 72px;
+    padding-top: 94px;
     padding-bottom: 94px;
 }
 .filter {
@@ -326,6 +325,8 @@ button {
 }
 .group-iteam {
     width: 370px;
+    background: var(--primary-color);
+    border: 1px solid var(--border-color);
 }
 .group-iteam:not(:nth-child(3n)) {
     margin-right: 30px;
@@ -335,10 +336,8 @@ button {
 }
 .group-container {
    padding: 20px 24px;
-
-    background: var(--primary-color):
-    border: 1px solid var(--border-color);
 }
+    
 .group-title {   
     margin-top: 0;
     margin-bottom: 4px;
